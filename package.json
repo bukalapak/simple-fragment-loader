@@ -1,0 +1,22 @@
+{
+  "name": "simple-fragment-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukalapak/simple-fragment-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bukalapak/simple-fragment-loader/issues"
+  },
+  "homepage": "https://github.com/bukalapak/simple-fragment-loader#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
